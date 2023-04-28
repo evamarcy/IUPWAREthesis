@@ -13,4 +13,4 @@ To understand how snow cover is related to the changes in sensitivity, the analy
 The high level of variability between models presented a challenge for this research and the resulting uncertainty makes is difficult to draw strong conclusions from the results.  
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-for more information email eveemarcy@gmail.com
+for more information email eveemarcy11@gmail.com
