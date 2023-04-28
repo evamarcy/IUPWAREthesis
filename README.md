@@ -1,5 +1,5 @@
 # IUPWAREthesis
-scripts used for master's thesis analysis of LUMIP data for topic: Wintertime Biogeophysical Effects of Tree Cover in a Warming Climate 
+scripts used for master's thesis analysis of CMIP6 and LUMIP data for topic: Wintertime Biogeophysical Effects of Tree Cover in a Warming Climate 
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 Abstract:
