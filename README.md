@@ -2,6 +2,7 @@
 scripts used for master's thesis analysis of CMIP6 and LUMIP data for topic: Wintertime Biogeophysical Effects of Tree Cover in a Warming Climate 
 
 #---------------------------------------------------------------------------------------------------------
+
 Abstract:
 
 Afforestation is a proposed tool in the effort to mitigate climate change. However along with sequestration of CO2, the addition of tree cover also leads to biogeophysical forcing on climate through surface changes to albedo, roughness, and latent heat partitioning. As climate warms, we hypothesise that sensitivities of temperature to the change in tree cover would be reduced in winter in historically snow-covered areas, as a decrease in snow cover would lead to less of a change in albedo between forested and unforested land. By conducting a factorial sensitivity analysis using the CMIP6 ScenarioMIP and LUMIP experiments, we found weak results that are consistent with this hypothesis. 
